@@ -1,0 +1,62 @@
+NS21300: Sea Power & Maritm Aff|?AD34300|4|1
+ANTH35200: Drugs, Culture & Society|?PSY33500?CHNS28000?CLCS23700|4|4
+ENGL34400: Environ Ethics/Policy/Sustain|?AAS37000?NS21300|3|1
+ECON25100: Microeconomics|?SPAN49800|4|1
+CLCS38000: Alexander The Great||1|4
+HIST10500: Global History|?POL32600|3|1
+WGSS38200: Love, Sex and Sexuality|?SPAN49800|2|2
+PTGS55500: Brazilian Drama|?SOC57600?NS21300|4|1
+RUSS38000: Russian Culture and Civilization I||1|3
+FR44300: Francophone Literature||2|3
+SPAN49800: Don Quixote|?CLCS38300?EDPS31500|2|1
+PSY33500: Stereotyping And Prej|?PHIL42100?PSY43600|1|3
+AD25100: History Of Photography I|?RUSS38000?PSY51500?AAS37000|3|3
+AD39500: History of Design|?ANTH35200|2|1
+CLCS23700: Gender Sex Greece Rome|?MCFT37100|0|3
+MCFT21500: Advanced Combat Techniques|?PHIL42100|3|2
+PHIL52500: Studies in Metaphysics|?AMOGUS10100|2|2
+MCFT37100: Potions II|?HIST49400|1|4
+SOC57600: Health And Aging In Social Context|?AD25100?CLCS23700?PHIL51500|2|3
+HIST32501: Twentieth Century Europe Through Autobiography|?SOC42100|3|4
+CLCS23900: The Comic Vision|?POL37200?PHIL51500|4|1
+SPAN33500: The Literature of Spanish-Speaking Peoples in the United States|?COM35100?AAS37000|4|1
+ILS23000: Data Science & Society ELSI|?SPAN33500?HIST33505?MCFT21500|4|3
+POL32600: Black Pol Part In Amer|?AAS37000?PHIL50500|1|2
+PSY43200: Social Psychology in Film|?CLCS18100|4|2
+ANTH20100: Intro Arch Prehistoric|?ANTH35200?CHNS28000?PTGS55500|1|1
+AMOGUS10100: Impostor Basics|?PHIL42100|4|1
+POL37200: Indiana Gov & Politics||1|3
+AAS37100: Black Politics|?CHNS28000|0|1
+CS44800: Introduction to Relational Database Systems|?ANTH35200|4|1
+CHNS28000: Chinese Culture||4|1
+CHNS34200: Chinese Literature II: Modern Chinese Literature|?AD38200?SOC42100|3|4
+FR39400: French Caribbean Literatures|?ANTH35200?CS25200|2|2
+ENGL37000: 19th Century American Literature||1|2
+PHIL50500: Islamic And Jewish Philosophy And The Classical Tradition|?POL37200|2|4
+SOC42100: Juvenile Delinquency|?AAS37000?PSY43600?SOC37400|2|3
+PSY38000: Behavior Change Methods|?PSY33500?ILS23000|3|1
+SOC37400: Medical Sociology||0|1
+CLCS23300: Comparative Mythology|?CS25200|4|2
+CS15900: C Programming|?SPAN49800?PSY33500|3|3
+CLCS38300: The Roman Empire|?ENGL37000|2|1
+AAS37000: Black Women Rising|?PSY43600?CLCS38000|2|3
+HIST33505: Nationlism Socialism E Cen Eur|?FR39400?PSY43600?POL32600|3|4
+POL10100: American Government||0|1
+PHIL42100: Philosophy Of Science|?FR39400?SPAN33500|4|1
+HIST49400: Science And Technology In American Civilization|?HIST33505?CLCS38000|3|3
+REL20300: Theology Of Paul|?PHIL51500|0|4
+ENGL24100: Survey Of The British Literature: From The Rise Of Romanticism To The Modern Period|?AAS37000?POL10100?SOC37400|3|3
+POL22900: Social and Political Philosophy|?RUSS38000?SOC42100?NS21300|0|2
+EDPS31500: Collab Leader: Interpersonal,Oral Communication|?PSY33500|1|4
+PHIL51500: Twentieth-Century Analytical Philosophy II|?SOC57600?MUS36100|2|1
+CLCS18100: Classical World Civilizations|?ANTH20100|4|4
+AD38200: Global Art, 18-19th Centuries|?PHIL50500?PSY43600?ANTH20100|2|2
+MUS36100: Music Theory I|?AD39500?CLCS23900|1|1
+PSY51500: Neuroscience of Consciousness|?AAS37000?HIST49400|4|4
+ENGL36500: Lit And Imperialism|?CLCS23900|2|2
+ENGL20200: Engaging English|?ILS23000?PSY33500|1|4
+COM35100: Mass Communication Ethics|?MUS36100?PHIL52500?PSY38000|1|3
+CS25200: Systems Programming|?AAS37000|4|3
+ANTH37900: Native American Cultures||4|1
+PSY43600: Foods and Behavior||2|4
+AD34300: Northern Renaissance Art|?ILS23000?NS21300?PHIL51500|0|3

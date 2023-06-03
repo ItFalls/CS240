@@ -1,0 +1,28 @@
+HIST23800: Hist Russ Med Tm-1861|?ENGL33500|1|4
+HIST49400: Science And Technology In American Civilization|?HIST47700?ENGL53800|3|1
+HIST47700: Native American Women's History|?ENGL53800|0|1
+ENGL59500: Contemporary American Fiction|?WGSS48500?ENGL28000?HIST47700|2|3
+ANTH50500: Culture and Society||1|1
+PSY39200: Close Relationships||1|1
+CS18200: Foundations Of Computer Science|?ENGL53800?PHIL42400?PSY12000|1|2
+ENGL53800: English Drama from the Restoration to the Modern Period||3|4
+PHIL28000: Ethics and Animals|?PHIL42400?HIST23800|2|2
+JPNS48500: Culinary Culture of Japan||1|2
+ENGL28000: Games, Narrative, Culture||0|3
+PHIL42400: Recent Ethical Theory||4|3
+CHNS59400: Tang Dynasty Poetry|?PSY35400?SPAN55300?FR38000|0|3
+ANTH34000: Global Health|?AD39100|3|4
+HIST46300: Creation Of American Legal Culture|?ENGL53800?ENGL53800|3|4
+PSY35400: Close Relationships|?CHNS59400|3|1
+AD39100: History of Chinese Art||2|4
+WGSS48500: Feminist Perspectives on Film & Cinema & Visual Culture||1|2
+PSY12000: Elementary Psychology|?ENGL53800?PSY35400|1|2
+AAS49100: African-American Protest Lit|?PHIL28000?HIST47600|2|4
+POL23500: Rich And Poor Nations||3|3
+FR38000: French Food Culture||1|3
+HIST47600: The Civil War in Myth and Memory|?AD39100?HIST49400?HIST31905|3|1
+COM31500: Spe Commun Tech Infon|?CS18200?PSY35400?HIST47600|3|1
+SPAN55300: Spanish American Literature From 1970- Present|?HIST49400|1|4
+ENGL53200: English Novel In the 19th Century|?AD39100?AAS49100?POL23500|4|4
+ENGL33500: Restoration And Eighteenth-Century English Literature|?ENGL53200?PHIL42400?AAS49100|4|3
+HIST31905: Christianity in the Global Age|?AD39100?ENGL53800|0|4

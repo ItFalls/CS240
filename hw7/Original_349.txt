@@ -1,0 +1,47 @@
+SOC22000: Social Problems|?SPAN54500|0|4
+HIST36305: Medicine and Public Health|?HIST38700?THTR38100|3|1
+ENGL43900: Topics in Disability Studies|?SPAN54500?HIST10300|4|3
+NS33000: Evolution Of Warfare||1|4
+WGSS49900: Women and Health in America||3|1
+PHIL50200: Studies In Medieval Philosophy|?REL20100|4|4
+HIST23005: Hitler's Europe|?SOC22000?HIST46900|0|4
+CS49000: Competitive Programming III||2|4
+MCFT25000: Introduction to Agriculture|?SOC22000?THTR38100|4|2
+SPAN54500: Spanish Literature Of The 20th Century||4|4
+PHIL11000: Big Questions: Intro To Phil|?PHIL42400|3|4
+HIST46900: Black Civil Rights Movement|?PHIL40200?PHIL50200|0|3
+CLCS23100: Survey Of Latin Lit|?MUS38100?HIST21000?WGSS49900|0|1
+ENGL22800: Language And Social Identity|?ENGL36600|4|2
+HIST38700: Hist Of The Space Age|?REL49100|2|3
+KOR38000: introduction to Korean Culture||2|1
+HIST10300: Intro To Medieval Wrld|?MCFT12100?MUS38100|3|2
+ITAL34100: Italian Literature I: From The Middle Ages To The Enlightenment|?WGSS49900?PHIL40200?PHIL40200|0|1
+CS35100: Cloud Computing||3|3
+HIST37700: Hist & Cult Native Am||1|4
+RUSS58100: Russian Culture||4|3
+SPAN33500: The Literature of Spanish-Speaking Peoples in the United States||2|1
+HIST49500: Famine in World History||4|2
+ENGL23400: Literature and the Environment|?THTR38100|3|2
+JPNS33000: Japanese Cinema|?PHIL42400|0|2
+ENGL27900: American Short Story in Print & Film|?MCFT25000?KOR38000|0|2
+PHIL20700: Ethics for Tech, Engr, Design||3|1
+HIST21000: The Making of Modern Africa||3|2
+PHIL30100: Ancient Philosophy||3|1
+AD12500: Introduction to Interior Design|?ENGL27900?CS33400|1|2
+WGSS38100: Women Of Color In The United States||0|1
+CS33400: Fundamentals of Computer Graphics|?KOR38000|1|3
+ENGL59200: Postcol & Globalization Stds|?SOC22000|1|4
+MCFT12100: Foundations of Mining I|?NS33000|2|3
+REL49100: Rhetorics of Religion||1|4
+ENGL26600: World Literature: From The Beginnings To 1700 A.D.|?SPAN33500|1|1
+CS25200: Systems Programming|?PHIL50200?REL49100?HIST38700|4|1
+ANTH41400: Intro Langua Culture|?MUS38100?SPAN33500|4|3
+ANTH33700: Human Diet: Origins and Evolution||0|3
+PHIL40200: Studies in Medieval Christian Thought||4|4
+MUS38100: Music History I: Antiquity To Mozart|?PHIL40200|4|1
+PHIL42400: Recent Ethical Theory|?WGSS38100|0|2
+ANTH50500: Culture and Society||3|4
+THTR38100: History Of Theatre II||3|4
+HIST40500: The French Revolution and Napoleon||0|3
+ENGL36600: Postcolonial Literatures||4|3
+REL20100: Interpretation of the New Testament||4|3
