@@ -1,0 +1,259 @@
+getRear
+deleteRear
+deleteFront
+insertRear 776
+getFront
+getRear
+insertRear 70
+getFront
+insertFront 61
+deleteRear
+getFront
+deleteRear
+deleteRear
+deleteRear
+deleteFront
+getRear
+insertRear 23
+insertFront 68
+deleteRear
+getFront
+insertRear 942
+insertFront 824
+getFront
+insertFront 811
+getRear
+getRear
+deleteRear
+insertFront 783
+getRear
+deleteFront
+getFront
+deleteRear
+insertRear 558
+deleteRear
+getFront
+deleteFront
+getFront
+insertRear 276
+getFront
+deleteRear
+insertRear 643
+insertFront 430
+insertFront 32
+insertFront 428
+insertFront 937
+deleteFront
+getFront
+getRear
+getFront
+insertFront 964
+getRear
+deleteFront
+getFront
+getFront
+getFront
+deleteFront
+getFront
+insertRear 633
+deleteRear
+deleteRear
+insertFront 125
+deleteFront
+insertFront 256
+getRear
+getFront
+getRear
+deleteFront
+getRear
+insertRear 121
+deleteFront
+deleteRear
+getRear
+getRear
+getFront
+insertRear 652
+getRear
+getFront
+insertRear 948
+deleteRear
+deleteRear
+insertRear 905
+getFront
+getFront
+insertFront 645
+insertRear 878
+deleteRear
+getFront
+deleteFront
+deleteFront
+insertRear 615
+insertFront 25
+deleteRear
+deleteRear
+insertFront 393
+getRear
+getFront
+insertRear 456
+getFront
+insertFront 298
+deleteRear
+insertFront 676
+deleteFront
+deleteRear
+getFront
+deleteFront
+insertFront 411
+deleteFront
+deleteFront
+getFront
+insertRear 535
+deleteRear
+insertRear 101
+deleteRear
+getFront
+insertFront 304
+deleteFront
+getFront
+getRear
+deleteFront
+getRear
+insertRear 17
+deleteRear
+getRear
+getFront
+insertFront 479
+getFront
+getRear
+insertFront 698
+getFront
+insertFront 858
+insertRear 689
+insertRear 523
+deleteRear
+insertFront 19
+deleteFront
+deleteRear
+deleteRear
+insertFront 44
+insertFront 375
+getFront
+getFront
+deleteFront
+insertFront 729
+getFront
+insertFront 86
+deleteRear
+getRear
+deleteRear
+getRear
+deleteFront
+insertFront 864
+insertFront 889
+getFront
+getFront
+getRear
+insertRear 249
+getFront
+deleteFront
+insertFront 477
+insertRear 236
+getFront
+getFront
+getRear
+getFront
+getFront
+insertFront 233
+getFront
+getRear
+deleteFront
+insertRear 295
+deleteRear
+deleteFront
+deleteFront
+insertFront 767
+insertRear 767
+getRear
+insertRear 375
+insertFront 366
+insertFront 156
+getRear
+deleteFront
+getRear
+deleteFront
+deleteRear
+getFront
+deleteFront
+deleteRear
+insertFront 174
+getFront
+deleteRear
+insertFront 25
+insertFront 153
+insertRear 971
+deleteRear
+deleteRear
+insertRear 219
+insertFront 368
+deleteRear
+getRear
+deleteFront
+getFront
+getFront
+insertFront 966
+getFront
+insertFront 260
+getRear
+insertFront 321
+getFront
+getRear
+getFront
+insertRear 949
+insertFront 907
+insertFront 192
+insertFront 201
+insertFront 42
+deleteFront
+insertRear 828
+getRear
+deleteFront
+deleteFront
+insertFront 88
+insertFront 2
+deleteFront
+getFront
+deleteFront
+deleteFront
+insertRear 130
+insertRear 291
+deleteRear
+getFront
+getRear
+deleteFront
+insertRear 262
+deleteRear
+deleteRear
+deleteFront
+getRear
+getFront
+getRear
+getFront
+deleteFront
+insertFront 521
+deleteFront
+deleteRear
+getRear
+deleteFront
+insertFront 214
+getRear
+getRear
+deleteFront
+deleteRear
+insertFront 444
+deleteRear
+insertRear 100
+insertFront 576
+insertFront 40
+insertFront 858
+insertRear 23
+deleteFront

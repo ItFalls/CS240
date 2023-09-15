@@ -1,0 +1,85 @@
+pop
+peek
+peek
+push 450
+pop
+push 65
+peek
+push 466
+pop
+peek
+push 872
+pop
+push 373
+push 57
+push 459
+pop
+push 711
+pop
+push 267
+pop
+pop
+pop
+pop
+push 430
+peek
+push 372
+pop
+push 756
+peek
+pop
+peek
+peek
+pop
+pop
+peek
+push 193
+pop
+pop
+peek
+peek
+peek
+push 925
+pop
+push 794
+push 979
+pop
+pop
+pop
+push 71
+peek
+peek
+pop
+push 815
+peek
+pop
+push 360
+pop
+pop
+pop
+peek
+peek
+pop
+push 695
+peek
+push 456
+push 936
+pop
+pop
+peek
+peek
+push 484
+push 344
+pop
+peek
+push 501
+peek
+push 760
+push 882
+pop
+push 503
+peek
+peek
+pop
+pop
+pop

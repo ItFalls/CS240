@@ -1,0 +1,12 @@
+peek
+push 514
+push 37
+push 431
+pop
+peek
+peek
+pop
+pop
+push 491
+push 966
+push 911

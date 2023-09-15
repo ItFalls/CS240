@@ -1,0 +1,344 @@
+peek
+peek
+pop
+push 732
+peek
+pop
+peek
+push 287
+push 47
+pop
+pop
+peek
+pop
+push 871
+push 863
+pop
+push 950
+peek
+peek
+pop
+pop
+peek
+peek
+peek
+peek
+pop
+pop
+peek
+pop
+push 63
+push 61
+pop
+peek
+pop
+push 760
+pop
+push 435
+peek
+pop
+push 750
+pop
+peek
+pop
+pop
+peek
+push 398
+pop
+pop
+pop
+pop
+peek
+push 971
+peek
+push 5
+pop
+peek
+push 735
+pop
+pop
+push 922
+pop
+peek
+pop
+peek
+push 478
+pop
+pop
+push 482
+push 751
+push 610
+peek
+pop
+pop
+push 891
+peek
+peek
+peek
+push 610
+peek
+push 547
+peek
+pop
+peek
+push 1000
+push 244
+push 229
+peek
+pop
+push 435
+pop
+pop
+push 906
+peek
+peek
+push 851
+peek
+peek
+peek
+pop
+pop
+pop
+peek
+push 750
+peek
+push 453
+pop
+pop
+pop
+pop
+push 623
+push 925
+peek
+pop
+peek
+pop
+peek
+push 732
+push 88
+pop
+push 696
+peek
+peek
+push 449
+push 495
+push 881
+push 889
+pop
+peek
+pop
+pop
+push 210
+peek
+peek
+peek
+pop
+push 438
+pop
+peek
+pop
+push 107
+peek
+peek
+peek
+push 139
+pop
+pop
+pop
+push 96
+pop
+pop
+pop
+push 7
+pop
+push 490
+peek
+peek
+push 544
+peek
+push 7
+push 706
+peek
+push 727
+pop
+push 991
+push 585
+peek
+peek
+pop
+push 673
+push 623
+peek
+push 557
+peek
+push 346
+pop
+push 30
+push 481
+peek
+push 275
+pop
+peek
+push 531
+pop
+pop
+peek
+pop
+pop
+peek
+push 714
+peek
+pop
+pop
+peek
+peek
+push 915
+pop
+push 528
+push 218
+peek
+push 628
+pop
+peek
+push 815
+pop
+peek
+pop
+pop
+push 997
+pop
+push 466
+push 578
+peek
+pop
+peek
+push 401
+push 488
+pop
+push 986
+push 783
+push 809
+push 750
+peek
+push 110
+peek
+pop
+push 0
+peek
+peek
+pop
+peek
+peek
+push 593
+pop
+push 117
+peek
+peek
+pop
+pop
+push 294
+peek
+push 232
+pop
+peek
+peek
+pop
+pop
+push 46
+pop
+push 244
+push 529
+peek
+pop
+pop
+peek
+pop
+push 552
+peek
+push 772
+pop
+push 771
+peek
+peek
+pop
+push 38
+push 584
+pop
+push 422
+peek
+push 610
+peek
+peek
+peek
+peek
+pop
+peek
+pop
+push 426
+push 182
+pop
+push 896
+pop
+push 650
+peek
+pop
+push 531
+push 367
+peek
+push 134
+pop
+peek
+pop
+push 607
+push 484
+peek
+push 246
+pop
+pop
+push 807
+push 828
+pop
+peek
+push 788
+pop
+pop
+peek
+peek
+peek
+pop
+peek
+pop
+pop
+peek
+push 272
+peek
+pop
+peek
+push 122
+peek
+peek
+push 538
+push 648
+push 107
+push 768
+peek
+pop
+pop
+push 37
+peek
+peek
+pop
+push 868
+push 21
+peek
+pop
+pop
+pop
+peek
+push 214
+pop
+push 863
+peek
+peek
+peek
+pop

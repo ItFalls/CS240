@@ -1,0 +1,26 @@
+getRear
+insertFront 76
+deleteRear
+insertRear 52
+getFront
+insertFront 586
+deleteRear
+insertFront 175
+deleteRear
+deleteFront
+deleteFront
+insertFront 692
+deleteRear
+insertFront 659
+getFront
+getFront
+insertRear 346
+deleteRear
+insertFront 347
+deleteRear
+insertFront 673
+deleteFront
+insertFront 660
+deleteFront
+insertRear 276
+deleteRear

@@ -1,0 +1,39 @@
+insertFront 838
+deleteRear
+getRear
+deleteRear
+getFront
+deleteRear
+deleteRear
+deleteFront
+deleteFront
+deleteFront
+insertFront 581
+insertFront 571
+deleteFront
+getFront
+deleteFront
+getFront
+getRear
+deleteFront
+deleteRear
+deleteFront
+insertFront 170
+deleteFront
+deleteRear
+deleteFront
+insertFront 663
+deleteRear
+deleteFront
+deleteFront
+insertFront 0
+deleteRear
+getRear
+getRear
+deleteRear
+insertRear 523
+deleteRear
+deleteRear
+deleteFront
+getFront
+insertRear 871

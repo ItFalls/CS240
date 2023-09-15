@@ -1,0 +1,289 @@
+pop
+push 730
+push 970
+peek
+peek
+push 797
+peek
+peek
+push 932
+push 363
+pop
+push 260
+pop
+push 662
+pop
+pop
+pop
+pop
+push 608
+push 726
+push 119
+peek
+pop
+pop
+peek
+peek
+pop
+pop
+push 183
+pop
+pop
+peek
+pop
+push 772
+peek
+push 336
+peek
+push 931
+peek
+pop
+push 537
+peek
+push 792
+pop
+peek
+push 582
+peek
+pop
+push 609
+pop
+push 945
+peek
+peek
+push 302
+push 561
+pop
+pop
+pop
+pop
+pop
+pop
+push 561
+pop
+push 579
+push 885
+pop
+peek
+pop
+peek
+pop
+push 709
+pop
+peek
+push 7
+peek
+pop
+pop
+pop
+push 978
+pop
+pop
+peek
+push 837
+peek
+peek
+peek
+push 451
+push 596
+pop
+peek
+push 267
+peek
+peek
+peek
+push 463
+push 3
+pop
+push 706
+peek
+peek
+peek
+pop
+peek
+push 790
+peek
+pop
+peek
+push 557
+pop
+pop
+pop
+peek
+peek
+peek
+peek
+push 283
+push 836
+pop
+peek
+push 300
+push 827
+peek
+push 389
+push 27
+push 810
+push 249
+push 434
+pop
+push 962
+push 183
+pop
+pop
+push 465
+push 835
+peek
+peek
+peek
+push 172
+push 415
+push 825
+peek
+pop
+peek
+pop
+peek
+pop
+peek
+pop
+peek
+pop
+push 24
+peek
+push 519
+peek
+pop
+pop
+peek
+peek
+pop
+pop
+peek
+peek
+peek
+push 256
+push 607
+push 146
+peek
+pop
+peek
+pop
+pop
+peek
+push 182
+push 424
+push 160
+push 325
+pop
+push 150
+pop
+push 817
+push 66
+peek
+peek
+pop
+peek
+push 20
+push 281
+pop
+peek
+pop
+pop
+push 31
+pop
+pop
+push 18
+peek
+pop
+peek
+push 817
+pop
+push 79
+peek
+push 782
+pop
+pop
+push 296
+pop
+push 391
+push 959
+pop
+peek
+pop
+peek
+push 554
+peek
+pop
+pop
+pop
+push 996
+push 980
+peek
+peek
+push 206
+pop
+pop
+push 135
+peek
+peek
+peek
+push 876
+pop
+push 526
+peek
+push 436
+peek
+peek
+pop
+pop
+push 910
+peek
+pop
+peek
+pop
+peek
+push 692
+peek
+peek
+push 828
+pop
+push 869
+pop
+peek
+push 353
+pop
+peek
+peek
+push 340
+pop
+peek
+peek
+push 323
+peek
+push 555
+push 969
+push 891
+pop
+peek
+push 346
+push 134
+push 532
+push 54
+push 747
+pop
+push 777
+pop
+pop
+push 95
+pop
+push 900
+peek
+pop
+push 866
+peek
+pop
+pop
+pop
+peek
+push 908
+peek
